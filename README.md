@@ -9,7 +9,7 @@ You can visit website from [here](https://grocermarketreact.netlify.app/)
 ___
 **Clone the project**
 ```
- https://github.com/ahmetfeyyazbalci/grocery-market-react
+ https://github.com/feyyazbalci/grocery-market-react
 
 ```
 
